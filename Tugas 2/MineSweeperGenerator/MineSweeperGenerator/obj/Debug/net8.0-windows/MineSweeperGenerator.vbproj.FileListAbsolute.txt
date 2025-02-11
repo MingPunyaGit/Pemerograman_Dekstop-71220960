@@ -1,0 +1,16 @@
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.exe
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.deps.json
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.runtimeconfig.json
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.dll
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.pdb
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.Form1.resources
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.vbproj.GenerateResource.cache
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.AssemblyInfoInputs.cache
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.AssemblyInfo.vb
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.vbproj.CoreCompileInputs.cache
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.dll
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\refint\MineSweeperGenerator.dll
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.pdb
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.genruntimeconfig.cache
+D:\Pemerograman Dekstop\MineSweeperGenerator\MineSweeperGenerator\obj\Debug\net8.0-windows\ref\MineSweeperGenerator.dll
