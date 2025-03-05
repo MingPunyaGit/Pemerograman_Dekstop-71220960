@@ -1,0 +1,38 @@
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.vbproj.AssemblyReference.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.vbproj.ResolveComReference.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.Form1.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.GeneratedMSBuildEditorConfig.editorconfig
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.AssemblyInfoInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.AssemblyInfo.vb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.sourcelink.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\bin\Debug\net8.0-windows\MP3TagEditor.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\bin\Debug\net8.0-windows\MP3TagEditor.deps.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\bin\Debug\net8.0-windows\MP3TagEditor.runtimeconfig.json
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\bin\Debug\net8.0-windows\MP3TagEditor.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\bin\Debug\net8.0-windows\MP3TagEditor.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\bin\Debug\net8.0-windows\gma.Drawing.ImageInfo.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\bin\Debug\net8.0-windows\ID3.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEd.43098D0E.Up2Date
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\refint\MP3TagEditor.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.genruntimeconfig.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\ref\MP3TagEditor.dll
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.vbproj.ResolveComReference.cache
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.Form1.resources
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.vbproj.GenerateResource.cache
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.AssemblyInfoInputs.cache
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.AssemblyInfo.vb
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.vbproj.CoreCompileInputs.cache
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.dll
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\refint\MP3TagEditor.dll
+D:\Pemerograman Dekstop\Tuggas Pertemuan 5\MP3TagEditor\MP3TagEditor\obj\Debug\net8.0-windows\MP3TagEditor.pdb
