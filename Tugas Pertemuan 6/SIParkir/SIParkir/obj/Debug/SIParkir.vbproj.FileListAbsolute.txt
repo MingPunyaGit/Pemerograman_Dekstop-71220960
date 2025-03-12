@@ -1,0 +1,48 @@
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.AssemblyReference.cache
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.login.resources
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.Resources.resources
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\bin\Debug\SIParkir.exe.config
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\bin\Debug\SIParkir.exe
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\bin\Debug\SIParkir.pdb
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\bin\Debug\SIParkir.xml
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.exe
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.xml
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.pdb
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.profil.resources
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.langganan.resources
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.main.resources
+F:\KULIAH SEM 6\Prog Desk\SIParkir\SIParkir\obj\Debug\SIParkir.laporan.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\SIParkir.exe.config
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\SIParkir.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\SIParkir.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\bin\Debug\SIParkir.xml
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.AssemblyReference.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.langganan.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.laporan.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.login.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.main.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.Resources.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.profil.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.xml
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.pdb
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\bin\Debug\SIParkir.exe.config
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\bin\Debug\SIParkir.exe
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\bin\Debug\SIParkir.pdb
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\bin\Debug\SIParkir.xml
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.AssemblyReference.cache
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.langganan.resources
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.laporan.resources
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.login.resources
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.main.resources
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.Resources.resources
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.profil.resources
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.GenerateResource.cache
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.vbproj.CoreCompileInputs.cache
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.exe
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.xml
+D:\Pemerograman Dekstop\Tugas Pertemuan 6\SIParkir\SIParkir\obj\Debug\SIParkir.pdb
