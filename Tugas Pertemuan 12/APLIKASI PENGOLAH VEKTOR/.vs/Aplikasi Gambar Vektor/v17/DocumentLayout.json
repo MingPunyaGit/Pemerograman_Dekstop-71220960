@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pemerograman Dekstop\\Pertemuan 11\\APLIKASI PENGOLAH VEKTOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6134232A-E01B-4665-A7CA-C9A14EFD1DB5}|Aplikasi Gambar Vektor.vbproj|d:\\pemerograman dekstop\\pertemuan 11\\aplikasi pengolah vektor\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6134232A-E01B-4665-A7CA-C9A14EFD1DB5}|Aplikasi Gambar Vektor.vbproj|solutionrelative:frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6134232A-E01B-4665-A7CA-C9A14EFD1DB5}|Aplikasi Gambar Vektor.vbproj|D:\\Pemerograman Dekstop\\Pertemuan 11\\APLIKASI PENGOLAH VEKTOR\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6134232A-E01B-4665-A7CA-C9A14EFD1DB5}|Aplikasi Gambar Vektor.vbproj|solutionrelative:frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUtama.vb",
+              "DocumentMoniker": "D:\\Pemerograman Dekstop\\Pertemuan 11\\APLIKASI PENGOLAH VEKTOR\\frmUtama.vb",
+              "RelativeDocumentMoniker": "frmUtama.vb",
+              "ToolTip": "D:\\Pemerograman Dekstop\\Pertemuan 11\\APLIKASI PENGOLAH VEKTOR\\frmUtama.vb",
+              "RelativeToolTip": "frmUtama.vb",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAiwBgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-13T19:30:15.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUtama.vb [Design]",
+              "DocumentMoniker": "D:\\Pemerograman Dekstop\\Pertemuan 11\\APLIKASI PENGOLAH VEKTOR\\frmUtama.vb",
+              "RelativeDocumentMoniker": "frmUtama.vb",
+              "ToolTip": "D:\\Pemerograman Dekstop\\Pertemuan 11\\APLIKASI PENGOLAH VEKTOR\\frmUtama.vb [Design]",
+              "RelativeToolTip": "frmUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-13T19:30:11.871Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Aplikasi Gambar Vektor.exe.config
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Aplikasi Gambar Vektor.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Aplikasi Gambar Vektor.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Aplikasi Gambar Vektor.xml
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.vbproj.AssemblyReference.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi_Gambar_Vektor.Resources.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi.C88A3F74.Up2Date
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.xml
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 12\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi_Gambar_Vektor.frmUtama.resources
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Aplikasi Gambar Vektor.exe.config
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Aplikasi Gambar Vektor.exe
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Aplikasi Gambar Vektor.pdb
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Aplikasi Gambar Vektor.xml
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.vbproj.AssemblyReference.cache
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi_Gambar_Vektor.frmUtama.resources
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi_Gambar_Vektor.Resources.resources
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.vbproj.GenerateResource.cache
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.vbproj.CoreCompileInputs.cache
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi.C88A3F74.Up2Date
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.exe
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.xml
+D:\Pemerograman Dekstop\Pertemuan 11\Aplikasi Gambar Vektor\Aplikasi Gambar Vektor\obj\Debug\Aplikasi Gambar Vektor.pdb
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\bin\Debug\Aplikasi Gambar Vektor.exe.config
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\bin\Debug\Aplikasi Gambar Vektor.exe
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\bin\Debug\Aplikasi Gambar Vektor.pdb
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\bin\Debug\Aplikasi Gambar Vektor.xml
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\obj\Debug\Aplikasi Gambar Vektor.vbproj.AssemblyReference.cache
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\obj\Debug\Aplikasi_Gambar_Vektor.frmUtama.resources
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\obj\Debug\Aplikasi_Gambar_Vektor.Resources.resources
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\obj\Debug\Aplikasi Gambar Vektor.vbproj.GenerateResource.cache
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\obj\Debug\Aplikasi Gambar Vektor.vbproj.CoreCompileInputs.cache
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\obj\Debug\Aplikasi.C88A3F74.Up2Date
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\obj\Debug\Aplikasi Gambar Vektor.exe
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\obj\Debug\Aplikasi Gambar Vektor.xml
+D:\Pemerograman Dekstop\Pertemuan 11\APLIKASI PENGOLAH VEKTOR\obj\Debug\Aplikasi Gambar Vektor.pdb
