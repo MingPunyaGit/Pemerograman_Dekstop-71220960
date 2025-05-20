@@ -1,0 +1,24 @@
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\bin\Debug\Game Pakman.exe.config
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\bin\Debug\Game Pakman.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\bin\Debug\Game Pakman.pdb
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\bin\Debug\Game Pakman.xml
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\obj\Debug\Game Pakman.vbproj.AssemblyReference.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\obj\Debug\Game_Pakman.Form1.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\obj\Debug\Game_Pakman.Resources.resources
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\obj\Debug\Game Pakman.vbproj.GenerateResource.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\obj\Debug\Game Pakman.vbproj.CoreCompileInputs.cache
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\obj\Debug\Game Pakman.exe
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\obj\Debug\Game Pakman.xml
+F:\KULIAH SEM 6\Prog Desk\Tugas\#Folder Pertemuan 13\Game Pakman\Game Pakman\obj\Debug\Game Pakman.pdb
+D:\Pemerograman Dekstop\Pertemuan 13\bin\Debug\Game Pakman.exe.config
+D:\Pemerograman Dekstop\Pertemuan 13\bin\Debug\Game Pakman.exe
+D:\Pemerograman Dekstop\Pertemuan 13\bin\Debug\Game Pakman.pdb
+D:\Pemerograman Dekstop\Pertemuan 13\bin\Debug\Game Pakman.xml
+D:\Pemerograman Dekstop\Pertemuan 13\obj\Debug\Game Pakman.vbproj.AssemblyReference.cache
+D:\Pemerograman Dekstop\Pertemuan 13\obj\Debug\Game_Pakman.Form1.resources
+D:\Pemerograman Dekstop\Pertemuan 13\obj\Debug\Game_Pakman.Resources.resources
+D:\Pemerograman Dekstop\Pertemuan 13\obj\Debug\Game Pakman.vbproj.GenerateResource.cache
+D:\Pemerograman Dekstop\Pertemuan 13\obj\Debug\Game Pakman.vbproj.CoreCompileInputs.cache
+D:\Pemerograman Dekstop\Pertemuan 13\obj\Debug\Game Pakman.exe
+D:\Pemerograman Dekstop\Pertemuan 13\obj\Debug\Game Pakman.xml
+D:\Pemerograman Dekstop\Pertemuan 13\obj\Debug\Game Pakman.pdb
